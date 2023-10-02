@@ -1,1 +1,4 @@
-Relase notes v1.0.0 for # splunk_soar_vectra_xdr
+# splunk_soar_vectra_xdr
+v1.0.0
+
+
